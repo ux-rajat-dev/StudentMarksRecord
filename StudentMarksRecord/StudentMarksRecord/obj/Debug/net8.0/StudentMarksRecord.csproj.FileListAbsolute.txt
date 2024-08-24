@@ -1,0 +1,14 @@
+C:\Users\Asus\source\repos\StudentMarksRecord\StudentMarksRecord\bin\Debug\net8.0\StudentMarksRecord.exe
+C:\Users\Asus\source\repos\StudentMarksRecord\StudentMarksRecord\bin\Debug\net8.0\StudentMarksRecord.deps.json
+C:\Users\Asus\source\repos\StudentMarksRecord\StudentMarksRecord\bin\Debug\net8.0\StudentMarksRecord.runtimeconfig.json
+C:\Users\Asus\source\repos\StudentMarksRecord\StudentMarksRecord\bin\Debug\net8.0\StudentMarksRecord.dll
+C:\Users\Asus\source\repos\StudentMarksRecord\StudentMarksRecord\bin\Debug\net8.0\StudentMarksRecord.pdb
+C:\Users\Asus\source\repos\StudentMarksRecord\StudentMarksRecord\obj\Debug\net8.0\StudentMarksRecord.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\source\repos\StudentMarksRecord\StudentMarksRecord\obj\Debug\net8.0\StudentMarksRecord.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\StudentMarksRecord\StudentMarksRecord\obj\Debug\net8.0\StudentMarksRecord.AssemblyInfo.cs
+C:\Users\Asus\source\repos\StudentMarksRecord\StudentMarksRecord\obj\Debug\net8.0\StudentMarksRecord.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\StudentMarksRecord\StudentMarksRecord\obj\Debug\net8.0\StudentMarksRecord.dll
+C:\Users\Asus\source\repos\StudentMarksRecord\StudentMarksRecord\obj\Debug\net8.0\refint\StudentMarksRecord.dll
+C:\Users\Asus\source\repos\StudentMarksRecord\StudentMarksRecord\obj\Debug\net8.0\StudentMarksRecord.pdb
+C:\Users\Asus\source\repos\StudentMarksRecord\StudentMarksRecord\obj\Debug\net8.0\StudentMarksRecord.genruntimeconfig.cache
+C:\Users\Asus\source\repos\StudentMarksRecord\StudentMarksRecord\obj\Debug\net8.0\ref\StudentMarksRecord.dll
